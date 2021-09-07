@@ -7,3 +7,4 @@ spring:
             server:
                 git:
                     uri: https://github.com/ademirsantosjr/dio_bootcamp_microservice_springcloud
+                default-label: main
